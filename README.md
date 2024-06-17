@@ -1,2 +1,2 @@
 # Spotify_clone
-Please Check the second branch..
+Please Check the my-new-branch branch..

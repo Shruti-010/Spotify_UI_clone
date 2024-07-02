@@ -1,5 +1,5 @@
 # Project Description  
-Welcome to the Spotify Clone project! This project is a basic imitation of the popular music streaming platform, Spotify. Built using HTML and CSS, this clone aims to replicate the look and feel of Spotify's user interface.
+Welcome to the Spotify UI Clone project! This project is a basic imitation of the popular music streaming platform, Spotify. Built using HTML and CSS, this clone aims to replicate the look and feel of Spotify's user interface.
 
 # Features  
 Responsive Design: Adaptable layout that works seamlessly on various devices.  
